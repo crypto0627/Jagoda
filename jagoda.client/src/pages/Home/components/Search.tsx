@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Search() {
   return (
     <section className='container px-4 my-16 grid gap-8 md:grid-cols-3'>

@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Home, SignIn, SignUp, AdminDashboard, TravelPackages, Booking, Profile } from './pages';
 import { Provider } from 'react-redux';

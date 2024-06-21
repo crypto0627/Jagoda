@@ -1,9 +1,4 @@
-import React from 'react';
-
-interface SelectionProps {
-    figure: string;
-    caption: string;
-  }
+import { SelectionProps } from '../../../api/interfaces';
 
 export default function Selection({ figure, caption }: SelectionProps) {
   return (

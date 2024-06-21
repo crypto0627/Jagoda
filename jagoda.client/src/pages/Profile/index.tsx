@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ApplicationUser } from '../../api/interfaces';
 import { getUserById } from '../../api';
 import { useSelector, useDispatch } from 'react-redux';

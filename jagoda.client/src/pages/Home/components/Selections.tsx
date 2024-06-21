@@ -1,5 +1,3 @@
-import React from 'react';
-
 import Selection from './Selection';
 
 import borabora1 from '/borabora1.jpg';

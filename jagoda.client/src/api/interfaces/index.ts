@@ -24,3 +24,7 @@ export interface ApplicationUser {
     travelPackage?: TravelPackage;
   }
   
+  export interface SelectionProps {
+    figure: string;
+    caption: string;
+  }

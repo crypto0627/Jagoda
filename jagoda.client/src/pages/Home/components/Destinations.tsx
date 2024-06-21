@@ -1,5 +1,3 @@
-import React from 'react';
-
 import borabora1 from '/borabora1.jpg';
 import borabora2 from '/borabora2.jpg';
 import maldives1 from '/maldives1.jpg';

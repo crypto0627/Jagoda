@@ -1,5 +1,3 @@
-import React from 'react';
-
 import bgVideo from '/beachVid.mp4';
 
 export default function Hero() {
