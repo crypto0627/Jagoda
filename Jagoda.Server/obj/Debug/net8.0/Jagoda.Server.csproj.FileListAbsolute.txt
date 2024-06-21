@@ -144,3 +144,4 @@ C:\Users\JakeKuo\source\repos\Jagoda\Jagoda.Server\obj\Debug\net8.0\refint\Jagod
 C:\Users\JakeKuo\source\repos\Jagoda\Jagoda.Server\obj\Debug\net8.0\Jagoda.Server.pdb
 C:\Users\JakeKuo\source\repos\Jagoda\Jagoda.Server\obj\Debug\net8.0\Jagoda.Server.genruntimeconfig.cache
 C:\Users\JakeKuo\source\repos\Jagoda\Jagoda.Server\obj\Debug\net8.0\ref\Jagoda.Server.dll
+C:\Users\JakeKuo\source\repos\Jagoda\Jagoda.Server\obj\Debug\net8.0\Jagoda.Server.sourcelink.json
