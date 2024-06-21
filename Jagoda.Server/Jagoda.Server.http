@@ -1,0 +1,6 @@
+@Jagoda.Server_HostAddress = http://localhost:5079
+
+GET {{Jagoda.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

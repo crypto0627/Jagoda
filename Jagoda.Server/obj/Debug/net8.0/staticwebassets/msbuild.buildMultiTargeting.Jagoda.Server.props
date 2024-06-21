@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jagoda.Server.props" />
+</Project>
