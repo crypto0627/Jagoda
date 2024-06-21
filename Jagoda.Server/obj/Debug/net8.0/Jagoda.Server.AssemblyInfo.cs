@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jagoda.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594ab432d0554c2721ded9a0b9f301f812e88d55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bce8f927bb8805d3f1e45ba72c8c2b0eb5cb2c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jagoda.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jagoda.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

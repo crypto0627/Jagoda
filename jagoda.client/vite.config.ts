@@ -42,7 +42,6 @@ export default defineConfig({
     },
     server: {
         proxy: {
-            // 將所有 /api 請求代理到後端 API
             '^/api/.*': {
                 target,
                 secure: false,
@@ -53,6 +52,6 @@ export default defineConfig({
         https: env.NODE_ENV !== 'production' ? {
             key: fs.readFileSync(keyFilePath),
             cert: fs.readFileSync(certFilePath),
-        } : undefined as any // 添加类型断言
+        } : undefined as any
     }
 });
